@@ -7,24 +7,24 @@ d’allouer des regroupements intermédiaires via GroupBy.
 L’exemple suivant recherche le mot qui est présent le plus fréquemment dans une chaîne de texte.
  */
 
-string sourceText = """
-    Doudou Lorem ipsum dolor sit Ahmet, doudou consectetur adipiscing elit.
-    Sed non risus doudou . Suspendisse lectus doudou tortor, dignissim sit Ahmet, 
-    adipiscing nec, ultricies doudou sed, dolor. Cras elementum ultrices Doudou Ahmet diam.
-""";
+//string sourceText = """
+//    Doudou Lorem ipsum dolor sit Ahmet, doudou consectetur adipiscing elit.
+//    Sed non risus doudou . Suspendisse lectus doudou tortor, dignissim sit Ahmet, 
+//    adipiscing nec, ultricies doudou sed, dolor. Cras elementum ultrices Doudou Ahmet diam.
+//""";
 
 // <summary>
 // Trouve le mot le plus fréquent dans le texte source donné.
 // </summary>
 // <param name="sourceText">Le texte dans lequel rechercher le mot le plus fréquent.</param>
 // <returns>Le mot le plus fréquent dans le texte.</returns>
-KeyValuePair<string, int> mostFrequentWord = sourceText
-    .Split(new char[] { ' ', '.', ',' }, StringSplitOptions.RemoveEmptyEntries)
-    .Select(word => word.ToLowerInvariant())
-    .CountBy(word => word)
-    .MaxBy(pair => pair.Value);
+//KeyValuePair<string, int> mostFrequentWord = sourceText
+//    .Split(new char[] { ' ', '.', ',' }, StringSplitOptions.RemoveEmptyEntries)
+//    .Select(word => word.ToLowerInvariant())
+//    .CountBy(word => word)
+//    .MaxBy(pair => pair.Value);
 
-Console.WriteLine(mostFrequentWord.Key); // amet
+//Console.WriteLine(mostFrequentWord.Key); // amet
 
 /*
 AggregateBy vous permet d’implémenter des workflows à usage général. 
