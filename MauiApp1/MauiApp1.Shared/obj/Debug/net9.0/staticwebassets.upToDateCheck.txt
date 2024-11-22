@@ -1,0 +1,7 @@
+C:\DemoDotnetConf24\dotnetconfwestafrica2024\MauiApp1\MauiApp1.Shared\wwwroot\bootstrap\bootstrap.min.css
+C:\DemoDotnetConf24\dotnetconfwestafrica2024\MauiApp1\MauiApp1.Shared\wwwroot\bootstrap\bootstrap.min.css.map
+C:\DemoDotnetConf24\dotnetconfwestafrica2024\MauiApp1\MauiApp1.Shared\wwwroot\app.css
+wwwroot\app.css
+wwwroot\bootstrap\bootstrap.min.css
+wwwroot\bootstrap\bootstrap.min.css.map
+wwwroot\favicon.png

@@ -15,6 +15,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BonusAttaquerServeurLinuxSS
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CleanUsageGRPatternV1", "..\..\Users\sarrk\source\repos\CleanUsageGRPatternV1\CleanUsageGRPatternV1.csproj", "{DC5E35E7-A9E5-4B2A-8CD9-CBF9F1896588}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MauiApp1", "MauiApp1\MauiApp1\MauiApp1.csproj", "{28BB199C-BE37-42A5-81D8-39F42AA01896}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MauiApp1.Shared", "MauiApp1\MauiApp1.Shared\MauiApp1.Shared.csproj", "{F5D6D194-155C-4F25-87AC-A5C4C204BAA9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MauiApp1.Web", "MauiApp1\MauiApp1.Web\MauiApp1.Web.csproj", "{A428FEDB-81D6-4BC3-A844-C1DB9A455904}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +51,18 @@ Global
 		{DC5E35E7-A9E5-4B2A-8CD9-CBF9F1896588}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DC5E35E7-A9E5-4B2A-8CD9-CBF9F1896588}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DC5E35E7-A9E5-4B2A-8CD9-CBF9F1896588}.Release|Any CPU.Build.0 = Release|Any CPU
+		{28BB199C-BE37-42A5-81D8-39F42AA01896}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28BB199C-BE37-42A5-81D8-39F42AA01896}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28BB199C-BE37-42A5-81D8-39F42AA01896}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28BB199C-BE37-42A5-81D8-39F42AA01896}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F5D6D194-155C-4F25-87AC-A5C4C204BAA9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5D6D194-155C-4F25-87AC-A5C4C204BAA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5D6D194-155C-4F25-87AC-A5C4C204BAA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5D6D194-155C-4F25-87AC-A5C4C204BAA9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A428FEDB-81D6-4BC3-A844-C1DB9A455904}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A428FEDB-81D6-4BC3-A844-C1DB9A455904}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A428FEDB-81D6-4BC3-A844-C1DB9A455904}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A428FEDB-81D6-4BC3-A844-C1DB9A455904}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

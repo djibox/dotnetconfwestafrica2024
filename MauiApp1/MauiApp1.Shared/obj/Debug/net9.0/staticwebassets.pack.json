@@ -1,0 +1,45 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\DemoDotnetConf24\\dotnetconfwestafrica2024\\MauiApp1\\MauiApp1.Shared\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\MauiApp1.Shared.bundle.scp.css",
+      "PackagePath": "staticwebassets\\MauiApp1.Shared.4ezrabzy06.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\DemoDotnetConf24\\dotnetconfwestafrica2024\\MauiApp1\\MauiApp1.Shared\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "C:\\DemoDotnetConf24\\dotnetconfwestafrica2024\\MauiApp1\\MauiApp1.Shared\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\DemoDotnetConf24\\dotnetconfwestafrica2024\\MauiApp1\\MauiApp1.Shared\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\DemoDotnetConf24\\dotnetconfwestafrica2024\\MauiApp1\\MauiApp1.Shared\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.MauiApp1.Shared.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.MauiApp1.Shared.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.build.MauiApp1.Shared.props",
+      "PackagePath": "build\\MauiApp1.Shared.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildMultiTargeting.MauiApp1.Shared.props",
+      "PackagePath": "buildMultiTargeting\\MauiApp1.Shared.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildTransitive.MauiApp1.Shared.props",
+      "PackagePath": "buildTransitive\\MauiApp1.Shared.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

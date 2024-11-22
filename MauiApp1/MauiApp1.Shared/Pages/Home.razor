@@ -1,0 +1,14 @@
+﻿@page "/"
+@using MauiApp1.Shared.Services
+@inject IFormFactor FormFactor
+
+<PageTitle>Home</PageTitle>
+
+<h1>Hello, Dotnet Conf 2024 !</h1>
+
+Welcome to .Net Conf 2024, West Africa <em>@factor</em> using <em>@platform</em>.
+
+@code {
+    private string factor => FormFactor.GetFormFactor();
+    private string platform => FormFactor.GetPlatform();
+}
