@@ -5,14 +5,14 @@ using Renci.SshNet;
 try
 {
     // Définir les informations de connexion
-    string host = "Mettre l'Ip du sertveur ssh"; // Remplacez par l'adresse IP de votre serveur
-    string username = "mettre le login d'un utilisateur sudo de preference"; // Remplacez par votre nom d'utilisateur
-    string password = "Mettre votre mot de passe"; // Remplacez par votre mot de passe
+    string host = "votre Ip du serveur Linux"; // Remplacez par l'adresse IP de votre serveur
+    string username = "votre sudo user"; // Remplacez par votre nom d'utilisateur
+    string password = "Votre Mot de passe"; // Remplacez par votre mot de passe
 
     // Définir la commande à exécuter
-    string command = "ls -la"; // Commande Linux
+    string command = "touch DotnConfWestAfrica2024"; // Commande Linux
 
-    // Configurer la connexion SSH
+    // Configurer la connexionusing Renci.SshNet; SSH
     using (var client = new SshClient(host, username, password))
     {
         client.Connect();
