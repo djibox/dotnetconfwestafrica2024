@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RuntineDotnet")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a102dac3c222dfe66e55e76e56a5a3995297440c")]
 [assembly: System.Reflection.AssemblyProductAttribute("RuntineDotnet")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RuntineDotnet")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

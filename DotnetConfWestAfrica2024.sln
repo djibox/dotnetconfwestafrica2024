@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.12.35514.174 d17.12
+VisualStudioVersion = 17.12.35514.174
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RuntineDotnet", "RuntineDotnet\RuntineDotnet.csproj", "{CACB6BCC-2437-4F9A-9B35-62C8F1D9E708}"
 EndProject
@@ -10,6 +10,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Linq", "Linq\Linq.csproj", "{21A56B74-BA88-42BA-A849-B833EF9DE7C8}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Collections", "Collections\Collections.csproj", "{99D763EA-6172-4B3D-A333-91D66DB69539}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BonusAttaquerServeurLinuxSSH", "BonusAttaquerServeurLinuxSSH\BonusAttaquerServeurLinuxSSH.csproj", "{274EB8D3-9BFD-4B3A-A3F6-21B894B0329C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{99D763EA-6172-4B3D-A333-91D66DB69539}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{99D763EA-6172-4B3D-A333-91D66DB69539}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{99D763EA-6172-4B3D-A333-91D66DB69539}.Release|Any CPU.Build.0 = Release|Any CPU
+		{274EB8D3-9BFD-4B3A-A3F6-21B894B0329C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{274EB8D3-9BFD-4B3A-A3F6-21B894B0329C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{274EB8D3-9BFD-4B3A-A3F6-21B894B0329C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{274EB8D3-9BFD-4B3A-A3F6-21B894B0329C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
