@@ -8,12 +8,16 @@ L’exemple suivant recherche le mot qui est présent le plus fréquemment dans 
  */
 
 string sourceText = """
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-    Sed non risus. Suspendisse lectus tortor, dignissim sit amet, 
-    adipiscing nec, ultricies sed, dolor. Cras elementum ultrices amet diam.
+    Doudou Lorem ipsum dolor sit Ahmet, doudou consectetur adipiscing elit.
+    Sed non risus doudou . Suspendisse lectus doudou tortor, dignissim sit Ahmet, 
+    adipiscing nec, ultricies doudou sed, dolor. Cras elementum ultrices Doudou Ahmet diam.
 """;
 
-// Find the most frequent word in the text.
+// <summary>
+// Trouve le mot le plus fréquent dans le texte source donné.
+// </summary>
+// <param name="sourceText">Le texte dans lequel rechercher le mot le plus fréquent.</param>
+// <returns>Le mot le plus fréquent dans le texte.</returns>
 KeyValuePair<string, int> mostFrequentWord = sourceText
     .Split(new char[] { ' ', '.', ',' }, StringSplitOptions.RemoveEmptyEntries)
     .Select(word => word.ToLowerInvariant())
