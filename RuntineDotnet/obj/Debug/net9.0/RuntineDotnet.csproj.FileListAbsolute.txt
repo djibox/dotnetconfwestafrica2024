@@ -1,0 +1,14 @@
+C:\Users\sarrk\source\repos\DotnetConfWestAfrica2024\RuntineDotnet\bin\Debug\net9.0\RuntineDotnet.exe
+C:\Users\sarrk\source\repos\DotnetConfWestAfrica2024\RuntineDotnet\bin\Debug\net9.0\RuntineDotnet.deps.json
+C:\Users\sarrk\source\repos\DotnetConfWestAfrica2024\RuntineDotnet\bin\Debug\net9.0\RuntineDotnet.runtimeconfig.json
+C:\Users\sarrk\source\repos\DotnetConfWestAfrica2024\RuntineDotnet\bin\Debug\net9.0\RuntineDotnet.dll
+C:\Users\sarrk\source\repos\DotnetConfWestAfrica2024\RuntineDotnet\bin\Debug\net9.0\RuntineDotnet.pdb
+C:\Users\sarrk\source\repos\DotnetConfWestAfrica2024\RuntineDotnet\obj\Debug\net9.0\RuntineDotnet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sarrk\source\repos\DotnetConfWestAfrica2024\RuntineDotnet\obj\Debug\net9.0\RuntineDotnet.AssemblyInfoInputs.cache
+C:\Users\sarrk\source\repos\DotnetConfWestAfrica2024\RuntineDotnet\obj\Debug\net9.0\RuntineDotnet.AssemblyInfo.cs
+C:\Users\sarrk\source\repos\DotnetConfWestAfrica2024\RuntineDotnet\obj\Debug\net9.0\RuntineDotnet.csproj.CoreCompileInputs.cache
+C:\Users\sarrk\source\repos\DotnetConfWestAfrica2024\RuntineDotnet\obj\Debug\net9.0\RuntineDotnet.dll
+C:\Users\sarrk\source\repos\DotnetConfWestAfrica2024\RuntineDotnet\obj\Debug\net9.0\refint\RuntineDotnet.dll
+C:\Users\sarrk\source\repos\DotnetConfWestAfrica2024\RuntineDotnet\obj\Debug\net9.0\RuntineDotnet.pdb
+C:\Users\sarrk\source\repos\DotnetConfWestAfrica2024\RuntineDotnet\obj\Debug\net9.0\RuntineDotnet.genruntimeconfig.cache
+C:\Users\sarrk\source\repos\DotnetConfWestAfrica2024\RuntineDotnet\obj\Debug\net9.0\ref\RuntineDotnet.dll
